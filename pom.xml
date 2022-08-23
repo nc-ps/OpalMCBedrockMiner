@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.nc.plugins</groupId>
-    <artifactId>BedrockMiner</artifactId>
+    <artifactId>OpalMCBedrockMiner</artifactId>
     <version>1.0.4</version>
 
     <properties>
